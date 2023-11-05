@@ -147,7 +147,7 @@ disqus_username: easonhelloword.github.io
 # !!!Important!!! Please modify infos below to yours
 # disqus 配置参考：https://disqus.com
 disqus:
-    username: easonjan
+    username: https://easonhelloword.github.io
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: EasonHelloWord
