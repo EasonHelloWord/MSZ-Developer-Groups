@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 代码改变世界
+keywords: MSZ开发者社区,开发者社区,闵行区实验高级中学,闵行实高,MSZDG,mszdg
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+当你试图解决一个你不理解的问题时,复杂化就产成了。
 
-仰慕「优雅编码的艺术」。
+生命太短暂,不要去做一些根本没有人想要的东西。
 
 坚信熟能生巧，努力改变人生。
 
