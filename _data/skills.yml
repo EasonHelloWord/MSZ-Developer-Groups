@@ -1,19 +1,11 @@
-- name: Software Engineer Keywords
+- name: 软件
   keywords:
-      - Java
+      - C
       - C++
       - Python
-      - Design Patterns
 
-- name: Mobile Developer Keywords
+- name: 硬件
   keywords:
-      - Android
-      - Reverse Engineering
+      - arduino
+      - stm32
 
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
