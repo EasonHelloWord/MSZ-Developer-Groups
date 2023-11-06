@@ -5,7 +5,7 @@ baseurl:
 url: https://easonhelloword.github.io/MSZ-Developer-Groups/
 date_format: "ordinal"
 title: MSZ开发者社区
-subtitle: "闵行实高 X MSZ开发者社区"
+subtitle: "闵行实中 X MSZ开发者社区"
 description: "MSZ开发者社区的博客"
 keywords: MSZ开发者社区,开发者社区,闵行区实验高级中学,闵行实高,MSZDG,mszdg
 timezone: Asia/Shanghai
@@ -57,7 +57,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: EasonJan
+author: MSZ开发者社区
 organization: MSZ开发者社区
 organization_url: https://easonhelloword.github.io/MSZ-Developer-Groups/
 github_username: EasonHelloWord
