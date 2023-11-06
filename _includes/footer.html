@@ -52,7 +52,7 @@
     <script>
       $(document).ready(function() {
         $("p img").each(function() {
-          var strA = "<a href='" + this.src + "' itemscope=\"\" itemtype=\"http://schema.org/ImageObject\" itemprop=\"url\" data-fancybox=\"default\" rel=\"default\"></a>";
+          var strA = "<a href='" + this.src + "' itemscope=\"\" itemtype=\"https://schema.org/ImageObject\" itemprop=\"url\" data-fancybox=\"default\" rel=\"default\"></a>";
           $(this).wrapAll(strA);
         });
       });
