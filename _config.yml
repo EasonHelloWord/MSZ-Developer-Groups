@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/MSZDevelopmentGroup/MSZ-Developer-Groups
+url: http://mszdg.easonjan.top//
 date_format: "ordinal"
 title: MSZ开发者社区
 subtitle: "闵行实中 X MSZ开发者社区"
