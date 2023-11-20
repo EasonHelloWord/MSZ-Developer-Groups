@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://easonhelloword.github.io/MSZ-Developer-Groups/
+url: https://github.com/MSZDevelopmentGroup/MSZ-Developer-Groups
 date_format: "ordinal"
 title: MSZ开发者社区
 subtitle: "闵行实中 X MSZ开发者社区"
@@ -13,7 +13,7 @@ encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2022
 # 源码仓库，请替换成自己的
-repository: EasonHelloWord/MSZ-Developer-Groups
+repository: MSZDevelopmentGroup/MSZ-Developer-Groups
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -59,10 +59,10 @@ highlight_theme: github
 # ---------------- #
 author: MSZ开发者社区
 organization: MSZ开发者社区
-organization_url: https://easonhelloword.github.io/MSZ-Developer-Groups/
+organization_url: http://mszdg.easonjan.top//
 github_username: EasonHelloWord
 location: Shanghai, China
-email: a13564674280@163.com
+email: mszdg@easonjan.top
 
 # ---------------- #
 #    Navigation    #
@@ -173,7 +173,7 @@ beaudar:
     repo: EasonHelloWord/MSZ-Developer-Groups
 # giscus 配置参考：https://giscus.app/zh-CN
 giscus:
-    repo: EasonHelloWord/MSZ-Developer-Groups
+    repo: MSZDevelopmentGroup/MSZ-Developer-Groups
     repo-id: R_kgDOKphCSw
     category: Announcements
     category-id: DIC_kwDOKphCS84Casuz
