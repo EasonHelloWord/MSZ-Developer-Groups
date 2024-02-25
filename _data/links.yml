@@ -9,3 +9,7 @@
 - name: 闵行区实验高级中学的贴吧
   url: https://tieba.baidu.com/f?ie=utf-8&kw=%E4%B8%8A%E6%B5%B7%E5%B8%82%E9%97%B5%E8%A1%8C%E5%8C%BA%E5%AE%9E%E9%AA%8C%E9%AB%98%E7%BA%A7%E4%B8%AD%E5%AD%A6
   src: www
+
+- name: 闵行实中香植社
+  url: https://xzs.easonjan.top
+  src: www
