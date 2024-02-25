@@ -13,7 +13,7 @@ mindmap: false
 mindmap2: false
 ---
 
-*如需直接查看tcp原理，请直接跳转：[tcp原理wiki](https://mszdg.easonjan.top///wiki/tcp-introduction/)*
+*如需查看tcp原理，请直接跳转：[tcp原理wiki](https://mszdg.easonjan.top///wiki/tcp-introduction/)*
 
 ## 一、活动主题
 活动主题：**连接**
